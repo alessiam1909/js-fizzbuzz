@@ -1,0 +1,12 @@
+PROBLEMA:
+Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i multipli di 3 stampi “Fizz” al posto del numero e per i multipli di 5 stampi “Buzz”. Per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”.
+
+RISOLUZIONE:
+1- Creo un ciclo che stampi i numeri da 1 a 100
+2- inserisco le condizioni:
+   2.1 Se il numero è multiplo di 3 stampa “Fizz”
+   2.2 Se il numero è multiplo di 5 stampa "Buzz"
+   2.3 Se il numero è multiplo di entrambi stampa "“FizzBuzz”
+   2.4 Altrimenti stampa il numero
+
+   
